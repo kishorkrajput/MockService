@@ -1,0 +1,11 @@
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\bin\Debug\netcoreapp2.0\AW.GoogleMockApi.deps.json
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\bin\Debug\netcoreapp2.0\AW.GoogleMockApi.runtimeconfig.json
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\bin\Debug\netcoreapp2.0\AW.GoogleMockApi.runtimeconfig.dev.json
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\bin\Debug\netcoreapp2.0\AW.GoogleMockApi.dll
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\bin\Debug\netcoreapp2.0\AW.GoogleMockApi.pdb
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\obj\Debug\netcoreapp2.0\AW.GoogleMockApi.csprojAssemblyReference.cache
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\obj\Debug\netcoreapp2.0\AW.GoogleMockApi.csproj.CoreCompileInputs.cache
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\obj\Debug\netcoreapp2.0\AW.GoogleMockApi.AssemblyInfoInputs.cache
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\obj\Debug\netcoreapp2.0\AW.GoogleMockApi.AssemblyInfo.cs
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\obj\Debug\netcoreapp2.0\AW.GoogleMockApi.dll
+C:\Kishor\project\GoogleMockApi\GoogleMockApi\obj\Debug\netcoreapp2.0\AW.GoogleMockApi.pdb
